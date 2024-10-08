@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- Library -->
+<!-- npm install axios bootstrap react-bootstrap @fortawesome/react-fontawesome, @fortawesome/free-solid-svg-icons react-player react-router-dom @mui/material @emotion/react @emotion/styled react-material-ui-carousel -->
